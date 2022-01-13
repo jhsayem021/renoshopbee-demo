@@ -1,0 +1,45 @@
+.footer-top{
+    background-color:lightgray;
+}
+.footer{
+    width: 70%;
+    margin: 0 auto;
+    padding: 40px 0px;
+   
+}
+.social-link-sec{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.social-link-footer{
+    color: black;
+    display: flex;
+}
+.social-link-footer div a{
+    padding-left: 40px;
+}
+.information{
+    display: flex;
+    justify-content:space-between;
+}
+.information-link div a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    
+}
+.information-link div {
+    margin-top: 10px;
+    
+}
+.copyright{
+    background-color: black;
+    color: darkgray;
+
+}
+.copyright footer{
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px 0px;
+}

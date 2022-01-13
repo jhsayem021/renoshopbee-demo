@@ -1,0 +1,51 @@
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 10px 40px 10px 40px;
+}
+.nav-logo h1{
+    color: rgb(36, 170, 103);
+}
+.nav-logo h1 span{
+    color: black;
+}
+.nav-link{
+    display: flex;
+    padding: 0;
+}
+.nav-link li{
+    list-style-type: none;
+    padding-left: 50px;
+}
+.nav-link li a{
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}
+.nav-link li a:hover{
+    color: rgb(36, 170, 103);
+}
+.nav-link-end{
+    display: flex;
+}
+.nav-link-end .cart {
+    position: relative;
+    text-decoration: none;
+    margin-right: 40px;
+    color: black;
+}
+.nav-link-end .cart p{
+    position: absolute;
+    top: -35px;
+    right: -15px;
+    padding: 3px 8px;
+    color: white;
+    background-color:rgb(36, 170, 103);
+    border-radius:50%;
+}
+.nav-link-end button {
+    margin-right: 40px;
+    border: 0;
+    background-color: white;
+}

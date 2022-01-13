@@ -1,0 +1,14 @@
+.features{
+    display:flex;
+    justify-content:space-evenly;
+}
+.features-card{
+    text-align: center;
+    color:rgb(58, 57, 57);
+    background-color:rgb(241 241 241);
+    width: 100%;
+    padding: 40px 0px;
+}
+.features-card i{
+    color:rgb(70, 61, 61);
+}

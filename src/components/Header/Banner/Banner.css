@@ -1,0 +1,23 @@
+.banner{
+    background-image: url('../../../images/Capture.PNG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:800px;
+}
+.banner div{
+
+    width: 45%;
+    margin: 0 auto;
+    padding-top: 300px;
+}
+.banner div h1{
+    font-size:46px;
+    letter-spacing: 4px;
+}
+.banner div h1 span{
+    color: rgb(36, 170, 103);
+}
+.banner div p{
+    width: 50%;
+    
+}

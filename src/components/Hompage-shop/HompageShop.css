@@ -1,0 +1,33 @@
+.seller-section{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin: 0 auto;
+    padding:100px 0px;
+}
+.feature-sec{
+    padding:40px 0px;
+}
+.featured-product{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    width: 90%;
+    margin: 0 auto;
+    padding:100px 0px;
+}
+.text-features{
+    text-align: center;
+}
+.text-features p{
+    color: rgb(36, 170, 103);
+}
+.seller-title{
+    padding-top: 100px;
+    
+}
+.seller-title p{
+    width: 80%;
+}
+.seller-title p small{
+    color: rgb(36, 170, 103);
+}

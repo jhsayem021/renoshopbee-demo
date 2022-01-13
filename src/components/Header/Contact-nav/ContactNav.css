@@ -1,0 +1,40 @@
+.contact{
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 10px 60px 10px 20px;
+}
+.phone-mail{
+    display: flex;
+}
+.phone{
+    padding-left: 20px;
+    color: white;
+    border-right: 2px solid rgb(114, 81, 81);
+    padding-right: 20px;
+}
+.phone a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    font-size: 12px;
+}
+.mail{
+    padding-left: 20px;
+    color: white;
+    
+}
+.mail a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    font-size: 12px;
+}
+.social-link{
+    color: white;
+    display: flex;
+}
+.social-link div a{
+    padding-left: 40px;
+}
